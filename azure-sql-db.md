@@ -1,5 +1,7 @@
 # Standing up a SQL Server and Database in Azure using Pulumi
 
+![yo](acloud.jpeg)
+
 ## Intro
 
 >__This course will guide you through creating a SQL Server and Database in Azure Cloud using Pulumi.__ <br>
