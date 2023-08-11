@@ -2,8 +2,6 @@
 
 Welcome to the world of Test-Driven Development (TDD) in .NET! TDD is a crucial practice in modern software development that prioritizes writing tests before writing actual code.
 
-## The Importance of TDD
-
 Projects lacking proper tests often end up resembling creations held together by duct tape. Ever experienced changing one part only to find another part failing? It's like trying to fix one bug, only to inadvertently create another. 
 
 <img src="https://i.imgflip.com/2bmd1r.jpg" alt="drawing" width="300"/>
