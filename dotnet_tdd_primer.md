@@ -10,7 +10,7 @@ What if instead, everything worked harmoniously and consistently?
 
 Imagine a scenario where your team operates seamlessly, like a Formula 1 pit crew in perfect coordination:
 
-![F1 Pit Crew](https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/10/p-1-how-to-get-your-team-to-work-like-a-formula-one-pit-crew.jpg)
+<img src="https://i.imgflip.com/2bmd1r.jpg" alt="drawing" width="300"/>
 
 ## Benefits of TDD
 
