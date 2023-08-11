@@ -4,13 +4,13 @@ Welcome to the world of Test-Driven Development (TDD) in .NET! TDD is a crucial 
 
 Projects lacking proper tests often end up resembling creations held together by duct tape. Ever experienced changing one part only to find another part failing? It's like trying to fix one bug, only to inadvertently create another. 
 
-<img src="https://i.imgflip.com/2bmd1r.jpg" alt="drawing" width="300"/>
+<img src="https://i.imgflip.com/2bmd1r.jpg" alt="drawing" width="250"/>
 
 What if instead, everything worked harmoniously and consistently?
 
 Imagine a scenario where your team operates seamlessly, like a Formula 1 pit crew in perfect coordination:
 
-<img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/10/p-1-how-to-get-your-team-to-work-like-a-formula-one-pit-crew.jpg" alt="drawing" width="300"/>
+<img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/10/p-1-how-to-get-your-team-to-work-like-a-formula-one-pit-crew.jpg" alt="drawing" width="365"/>
 
 ## Benefits of TDD
 
