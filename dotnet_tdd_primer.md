@@ -1,6 +1,8 @@
 # Introduction to Test-Driven Development (TDD) in .NET
 
-Welcome to the world of Test-Driven Development (TDD) in .NET! TDD is a crucial practice in modern software development that prioritizes writing tests before writing actual code.
+Welcome to the world of Test-Driven Development (TDD) in .NET! 
+
+TDD is a crucial practice in modern software development that prioritizes writing tests before writing actual code.
 
 Projects lacking proper tests often end up resembling creations held together by duct tape. Ever experienced changing one part only to find another part failing? It's like trying to fix one bug, only to inadvertently create another. 
 
@@ -14,7 +16,9 @@ Imagine a scenario where your team operates seamlessly, like a Formula 1 pit cre
 
 Test Driven Development (TDD) transforms your team into a well-oiled machine. This approach not only accelerates your progress but also upholds the highest work quality standards. With a comprehensive suite of tests that run with every change, you'll develop an elevated level of confidence in your codebase. This newfound assurance empowers you to explore your creative side without the fear of unexpected "breaks."
 
-This tutorial guides you through the creation of a .NET Console Application for calculating gear properties. By adhering to the TDD methodology, we ensure that our code is extensively tested, sturdy, and more manageable in the long run. Through this journey, you'll experience how TDD can truly be a "Game Changer."
+This tutorial guides you through the creation of a .NET Console Application for calculating gear properties. 
+
+By adhering to the TDD methodology, we ensure that our code is extensively tested, sturdy, and more manageable in the long run. Through this journey, you'll experience how TDD can truly be a "Game Changer."
 
 ---
 
